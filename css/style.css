@@ -346,12 +346,12 @@ textarea.form-control {
   font-style: italic; }
 
 .heading-serif, .heading, .testimonial-section .heading, .slider-section .heading, .blog-post-entry .heading {
-  font-size: 60px;
+  font-size: 30px;
   font-family: "Playfair Display", times, serif;
   font-weight: 700; }
   @media (max-width: 991.98px) {
     .heading-serif, .heading, .testimonial-section .heading, .slider-section .heading, .blog-post-entry .heading {
-      font-size: 40px; } }
+      font-size: 30px; } }
 
 .bg-pattern {
   background: #e9ecef url("../img/round.png"); }
