@@ -1062,10 +1062,10 @@ textarea.form-control {
       -ms-transform: rotateY(0deg);
       transform: rotateY(0deg); }
     .block-2 .front {
-      -webkit-transform: rotateY(180deg);
-      -moz-transform: rotateY(180deg);
-      -o-transform: rotateY(180deg);
-      transform: rotateY(180deg); } }
+      -webkit-transform: rotateY(0deg);
+      -moz-transform: rotateY(0deg);
+      -o-transform: rotateY(0deg);
+      transform: rotateY(0deg); } }
 
 .text-black {
   color: #000 !important; }
